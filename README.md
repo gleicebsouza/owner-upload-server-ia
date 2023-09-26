@@ -35,3 +35,10 @@ npm install
 ```
 npm run dev
 ```
+
+3. Execute prisma:
+
+```
+npx prisma studio
+``````
+Prisma Studio is up on http://localhost:5555
