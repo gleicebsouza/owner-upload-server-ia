@@ -1,20 +1,21 @@
+Projeto criado durante a Next Level Week sobre Inteligência Artificial.Backend usando a API da OPENAI, que permite enviar determinado para a transcrição de áudio para texto.
+
 ## 💻 Technologies
 
+- Typescript
 - NodeJs
--
+- Fastify
 - Prisma
+- MySql
 
 ## Concepts applied in this project
 
-- ✅ Using
-- ✅
-- ✅
-- ✅
-- ✅
-- ✅
-- ✅
-- ✅
-  <br/>
+- ✅ Using Typescript
+- ✅ using ORM Prisma
+- ✅ Using Zod for de claration and validation schema typescript
+- ✅ Connect API OPENAI
+
+<br/>
 
 ## DEPLOY
 
@@ -40,5 +41,6 @@ npm run dev
 
 ```
 npx prisma studio
-``````
+```
+
 Prisma Studio is up on http://localhost:5555
