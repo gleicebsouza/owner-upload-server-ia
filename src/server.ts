@@ -7,6 +7,7 @@ import { generateAICompletionRoute } from './routes/generate-ai-completion'
 
 const app = fastify()
 
+//Configuração cors
 app.register(fastifyCors, {
   origin: '*'
 })
